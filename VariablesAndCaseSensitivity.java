@@ -1,8 +1,8 @@
 public class VariablesAndCaseSensitivity {
   public static void main(String[] args) {
-    int studentAge = 20;
-    double itemprice = 10.5;
-    String studentName = "Jeromecarrido";
+    int studentAge = 15;
+    double itemprice = 29.99;
+    String studentName = "Alice";
     int counter = 10;
     int Counter = 20;
     
