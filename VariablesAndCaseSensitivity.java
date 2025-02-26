@@ -1,4 +1,4 @@
-public class Main {
+public class VariablesAndCaseSensitivity {
   public static void main(String[] args) {
     int studentAge = 20;
     double itemprice = 10.5;
